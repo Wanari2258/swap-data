@@ -7,7 +7,9 @@
 
   copy /Y "C:\Users\Administrator\AppData\Roaming\MetaQuotes\Terminal\D0162EDAA10BE0147537DE4C04EABA64\MQL5\Files\swap_swift.csv" "C:\swap-data\swap_swift.csv"
 
-  git add .
+  copy /Y "C:\Users\Administrator\AppData\Roaming\MetaQuotes\Terminal\D0E8209F77C8CF37AD8BF550E51FF075\MQL5\Files\swap_Tradexfin_Limited.csv"
+  
+git add .
   git commit -m "Update swap data %date% %time%"
   git push origin main
 
