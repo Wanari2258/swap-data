@@ -1,0 +1,11 @@
+timestamp,broker,symbol,swap_long,swap_short,direction_long,direction_short,swap_mode,contract_size
+2026.01.29 08:38:58,Axiory Global Ltd.,USDJPY,4.85550,-15.31000,Plus,Minus,Points,100000
+2026.01.29 08:38:58,Axiory Global Ltd.,EURJPY,2.02500,-10.49000,Plus,Minus,Points,100000
+2026.01.29 08:38:58,Axiory Global Ltd.,GBPJPY,6.66450,-21.40000,Plus,Minus,Points,100000
+2026.01.29 08:38:58,Axiory Global Ltd.,AUDJPY,3.94720,-10.64000,Plus,Minus,Points,100000
+2026.01.29 08:38:58,Axiory Global Ltd.,NZDJPY,1.38400,-6.93000,Plus,Minus,Points,100000
+2026.01.29 08:38:58,Axiory Global Ltd.,CADJPY,1.68910,-7.21000,Plus,Minus,Points,100000
+2026.01.29 08:38:58,Axiory Global Ltd.,EURUSD,-7.27000,3.53000,Minus,Plus,Points,100000
+2026.01.29 08:38:58,Axiory Global Ltd.,EURGBP,-5.36000,2.52000,Minus,Plus,Points,100000
+2026.01.29 08:38:58,Axiory Global Ltd.,NZDUSD,-3.72000,0.68000,Minus,Plus,Points,100000
+2026.01.29 08:38:58,Axiory Global Ltd.,XAUUSD,-85.42800,17.00710,Minus,Plus,Points,100
