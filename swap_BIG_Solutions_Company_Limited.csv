@@ -1,0 +1,11 @@
+timestamp,broker,symbol,swap_long,swap_short,direction_long,direction_short,swap_mode,contract_size
+2026.01.29 08:13:58,BIG Solutions Company Limited,USDJPY,10.79000,-28.49000,Plus,Minus,Points,100000
+2026.01.29 08:13:58,BIG Solutions Company Limited,EURJPY,7.27000,-29.57000,Plus,Minus,Points,100000
+2026.01.29 08:13:58,BIG Solutions Company Limited,GBPJPY,12.58000,-44.39000,Plus,Minus,Points,100000
+2026.01.29 08:13:58,BIG Solutions Company Limited,AUDJPY,6.99000,-18.51000,Plus,Minus,Points,100000
+2026.01.29 08:13:58,BIG Solutions Company Limited,NZDJPY,7.67000,-21.72000,Plus,Minus,Points,100000
+2026.01.29 08:13:58,BIG Solutions Company Limited,CADJPY,9.90000,-22.41000,Plus,Minus,Points,100000
+2026.01.29 08:13:58,BIG Solutions Company Limited,EURUSD,-6.99000,1.13000,Minus,Plus,Points,100000
+2026.01.29 08:13:58,BIG Solutions Company Limited,EURGBP,-5.27000,0.38000,Minus,Plus,Points,100000
+2026.01.29 08:13:58,BIG Solutions Company Limited,NZDUSD,-1.50000,-2.57000,Minus,Minus,Points,100000
+2026.01.29 08:13:58,BIG Solutions Company Limited,GOLD_USD,-30.57000,19.06000,Minus,Plus,Points,100
