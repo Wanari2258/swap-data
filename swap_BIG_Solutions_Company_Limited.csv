@@ -1,11 +1,11 @@
 timestamp,broker,symbol,swap_long,swap_short,direction_long,direction_short,swap_mode,contract_size
-2026.01.31 06:59:55,BIG Solutions Company Limited,USDJPY,10.79000,-28.90000,Plus,Minus,Points,100000
-2026.01.31 06:59:55,BIG Solutions Company Limited,EURJPY,7.27000,-29.86000,Plus,Minus,Points,100000
-2026.01.31 06:59:55,BIG Solutions Company Limited,GBPJPY,12.58000,-44.15000,Plus,Minus,Points,100000
-2026.01.31 06:59:55,BIG Solutions Company Limited,AUDJPY,6.99000,-18.52000,Plus,Minus,Points,100000
-2026.01.31 06:59:55,BIG Solutions Company Limited,NZDJPY,7.67000,-21.70000,Plus,Minus,Points,100000
-2026.01.31 06:59:55,BIG Solutions Company Limited,CADJPY,9.90000,-22.43000,Plus,Minus,Points,100000
-2026.01.31 06:59:55,BIG Solutions Company Limited,EURUSD,-7.19000,1.43000,Minus,Plus,Points,100000
-2026.01.31 06:59:55,BIG Solutions Company Limited,EURGBP,-5.27000,0.38000,Minus,Plus,Points,100000
-2026.01.31 06:59:55,BIG Solutions Company Limited,NZDUSD,-1.50000,-2.57000,Minus,Minus,Points,100000
-2026.01.31 06:59:55,BIG Solutions Company Limited,GOLD_USD,-30.57000,19.07000,Minus,Plus,Points,100
+2026.02.01 06:59:53,BIG Solutions Company Limited,USDJPY,10.79000,-28.90000,Plus,Minus,Points,100000
+2026.02.01 06:59:53,BIG Solutions Company Limited,EURJPY,7.27000,-29.86000,Plus,Minus,Points,100000
+2026.02.01 06:59:53,BIG Solutions Company Limited,GBPJPY,12.58000,-44.15000,Plus,Minus,Points,100000
+2026.02.01 06:59:53,BIG Solutions Company Limited,AUDJPY,6.99000,-18.52000,Plus,Minus,Points,100000
+2026.02.01 06:59:53,BIG Solutions Company Limited,NZDJPY,7.67000,-21.70000,Plus,Minus,Points,100000
+2026.02.01 06:59:53,BIG Solutions Company Limited,CADJPY,9.90000,-22.43000,Plus,Minus,Points,100000
+2026.02.01 06:59:53,BIG Solutions Company Limited,EURUSD,-7.19000,1.43000,Minus,Plus,Points,100000
+2026.02.01 06:59:53,BIG Solutions Company Limited,EURGBP,-5.27000,0.38000,Minus,Plus,Points,100000
+2026.02.01 06:59:53,BIG Solutions Company Limited,NZDUSD,-1.50000,-2.57000,Minus,Minus,Points,100000
+2026.02.01 06:59:53,BIG Solutions Company Limited,GOLD_USD,-30.57000,19.07000,Minus,Plus,Points,100
