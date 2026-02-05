@@ -1,11 +1,11 @@
 timestamp,broker,symbol,swap_long,swap_short,direction_long,direction_short,swap_mode,contract_size
-2026.02.04 06:59:25,Startrader Financial Markets Limited,USDJPY,10.42000,-24.98000,Plus,Minus,Points,100000
-2026.02.04 06:59:25,Startrader Financial Markets Limited,EURJPY,7.38000,-20.24000,Plus,Minus,Points,100000
-2026.02.04 06:59:25,Startrader Financial Markets Limited,GBPJPY,12.80000,-30.88000,Plus,Minus,Points,100000
-2026.02.04 06:59:25,Startrader Financial Markets Limited,AUDJPY,4.99000,-13.35000,Plus,Minus,Points,100000
-2026.02.04 06:59:25,Startrader Financial Markets Limited,NZDJPY,7.56000,-15.37000,Plus,Minus,Points,100000
-2026.02.04 06:59:25,Startrader Financial Markets Limited,CADJPY,7.54000,-16.55000,Plus,Minus,Points,100000
-2026.02.04 06:59:25,Startrader Financial Markets Limited,EURUSD,-6.47000,2.57000,Minus,Plus,Points,100000
-2026.02.04 06:59:25,Startrader Financial Markets Limited,EURGBP,-5.80000,0.50000,Minus,Plus,Points,100000
-2026.02.04 06:59:25,Startrader Financial Markets Limited,NZDUSD,-1.43000,-2.06000,Minus,Minus,Points,100000
-2026.02.04 06:59:25,Startrader Financial Markets Limited,XAUUSD,-30.80000,18.90000,Minus,Plus,Points,100
+2026.02.05 06:59:24,Startrader Financial Markets Limited,USDJPY,10.42000,-24.98000,Plus,Minus,Points,100000
+2026.02.05 06:59:24,Startrader Financial Markets Limited,EURJPY,7.38000,-20.24000,Plus,Minus,Points,100000
+2026.02.05 06:59:24,Startrader Financial Markets Limited,GBPJPY,12.80000,-30.88000,Plus,Minus,Points,100000
+2026.02.05 06:59:24,Startrader Financial Markets Limited,AUDJPY,4.99000,-13.35000,Plus,Minus,Points,100000
+2026.02.05 06:59:24,Startrader Financial Markets Limited,NZDJPY,7.56000,-15.37000,Plus,Minus,Points,100000
+2026.02.05 06:59:24,Startrader Financial Markets Limited,CADJPY,7.54000,-16.55000,Plus,Minus,Points,100000
+2026.02.05 06:59:24,Startrader Financial Markets Limited,EURUSD,-6.47000,2.57000,Minus,Plus,Points,100000
+2026.02.05 06:59:24,Startrader Financial Markets Limited,EURGBP,-5.80000,0.50000,Minus,Plus,Points,100000
+2026.02.05 06:59:24,Startrader Financial Markets Limited,NZDUSD,-1.43000,-2.06000,Minus,Minus,Points,100000
+2026.02.05 06:59:24,Startrader Financial Markets Limited,XAUUSD,-30.80000,18.90000,Minus,Plus,Points,100
