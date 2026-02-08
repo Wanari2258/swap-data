@@ -1,11 +1,11 @@
 timestamp,broker,symbol,swap_long,swap_short,direction_long,direction_short,swap_mode,contract_size
-2026.02.07 06:59:55,Tradexfin Limited,USDJPY,0.44000,-26.78000,Plus,Minus,Points,100000
-2026.02.07 06:59:55,Tradexfin Limited,EURJPY,-7.86000,-18.86000,Minus,Minus,Points,100000
-2026.02.07 06:59:55,Tradexfin Limited,GBPJPY,0.81000,-36.74000,Plus,Minus,Points,100000
-2026.02.07 06:59:55,Tradexfin Limited,AUDJPY,1.29000,-15.41000,Plus,Minus,Points,100000
-2026.02.07 06:59:55,Tradexfin Limited,NZDJPY,-2.08000,-13.18000,Minus,Minus,Points,100000
-2026.02.07 06:59:55,Tradexfin Limited,CADJPY,-1.63000,-11.13000,Minus,Minus,Points,100000
-2026.02.07 06:59:55,Tradexfin Limited,EURUSD,-8.61000,2.19000,Minus,Plus,Points,100000
-2026.02.07 06:59:55,Tradexfin Limited,EURGBP,-6.48000,1.52000,Minus,Plus,Points,100000
-2026.02.07 06:59:55,Tradexfin Limited,NZDUSD,-4.03000,0.47000,Minus,Plus,Points,100000
-2026.02.07 06:59:55,Tradexfin Limited,GOLD,-261.48000,9.57000,Minus,Plus,Points,100
+2026.02.08 06:59:53,Tradexfin Limited,USDJPY,0.95000,-26.85000,Plus,Minus,Points,100000
+2026.02.08 06:59:53,Tradexfin Limited,EURJPY,-6.42000,-19.62000,Minus,Minus,Points,100000
+2026.02.08 06:59:53,Tradexfin Limited,GBPJPY,0.81000,-36.74000,Plus,Minus,Points,100000
+2026.02.08 06:59:53,Tradexfin Limited,AUDJPY,1.56000,-15.74000,Plus,Minus,Points,100000
+2026.02.08 06:59:53,Tradexfin Limited,NZDJPY,-2.88000,-11.88000,Minus,Minus,Points,100000
+2026.02.08 06:59:53,Tradexfin Limited,CADJPY,-1.00000,-11.60000,Minus,Minus,Points,100000
+2026.02.08 06:59:53,Tradexfin Limited,EURUSD,-8.84000,2.26000,Minus,Plus,Points,100000
+2026.02.08 06:59:53,Tradexfin Limited,EURGBP,-6.58000,1.72000,Minus,Plus,Points,100000
+2026.02.08 06:59:53,Tradexfin Limited,NZDUSD,-4.03000,0.47000,Minus,Plus,Points,100000
+2026.02.08 06:59:53,Tradexfin Limited,GOLD,-132.52000,8.68000,Minus,Plus,Points,100
